@@ -18,7 +18,7 @@ export default function SubscribePage() {
             className="text-[14px] text-gray-600 flex-grow focus:outline-none pl-4 lg:text-[16px]"
           />
           <button className="bg-[#658C4A] text-[14px] text-white px-4 py-2 rounded-full lg:text-[20px]">
-            Subscribes
+            Subscribe
           </button>
         </div>
       </div>
